@@ -1,0 +1,14 @@
+C:\Users\acastro\Desktop\idle-logoff\src\lithnet.idlelogoff\bin\Release\PolicyDefinitions\en-US\lithnet.adml
+C:\Users\acastro\Desktop\idle-logoff\src\lithnet.idlelogoff\bin\Release\PolicyDefinitions\en-US\lithnet.idlelogoff.adml
+C:\Users\acastro\Desktop\idle-logoff\src\lithnet.idlelogoff\bin\Release\PolicyDefinitions\lithnet.admx
+C:\Users\acastro\Desktop\idle-logoff\src\lithnet.idlelogoff\bin\Release\PolicyDefinitions\lithnet.idlelogoff.admx
+C:\Users\acastro\Desktop\idle-logoff\src\lithnet.idlelogoff\bin\Release\lithnet.idlelogoff.exe.config
+C:\Users\acastro\Desktop\idle-logoff\src\lithnet.idlelogoff\bin\Release\lithnet.idlelogoff.exe
+C:\Users\acastro\Desktop\idle-logoff\src\lithnet.idlelogoff\bin\Release\lithnet.idlelogoff.pdb
+C:\Users\acastro\Desktop\idle-logoff\src\lithnet.idlelogoff\obj\Release\lithnet.idlelogoff.csprojAssemblyReference.cache
+C:\Users\acastro\Desktop\idle-logoff\src\lithnet.idlelogoff\obj\Release\Lithnet.idlelogoff.FrmSettings.resources
+C:\Users\acastro\Desktop\idle-logoff\src\lithnet.idlelogoff\obj\Release\lithnet.idlelogoff.LogoffWarning.resources
+C:\Users\acastro\Desktop\idle-logoff\src\lithnet.idlelogoff\obj\Release\lithnet.idlelogoff.Properties.Resources.resources
+C:\Users\acastro\Desktop\idle-logoff\src\lithnet.idlelogoff\obj\Release\lithnet.idlelogoff.csproj.GenerateResource.cache
+C:\Users\acastro\Desktop\idle-logoff\src\lithnet.idlelogoff\obj\Release\lithnet.idlelogoff.exe
+C:\Users\acastro\Desktop\idle-logoff\src\lithnet.idlelogoff\obj\Release\lithnet.idlelogoff.pdb
