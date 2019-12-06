@@ -117,9 +117,9 @@
             this.lbProductName.AutoSize = true;
             this.lbProductName.Location = new System.Drawing.Point(8, 299);
             this.lbProductName.Name = "lbProductName";
-            this.lbProductName.Size = new System.Drawing.Size(99, 13);
+            this.lbProductName.Size = new System.Drawing.Size(60, 13);
             this.lbProductName.TabIndex = 4;
-            this.lbProductName.Text = "Lithnet.IdleLogoff";
+            this.lbProductName.Text = "IdleLogoff";
             // 
             // lbProductVersion
             // 
